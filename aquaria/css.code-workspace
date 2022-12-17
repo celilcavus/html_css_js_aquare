@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "css",
+			"path": "../web-sitelerim/bootstrap-5.2.2-dist/css"
+		},
+		{
+			"name": "js",
+			"path": "../web-sitelerim/bootstrap-5.2.2-dist/js"
+		},
+		{
+			"name": "aquaria",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
